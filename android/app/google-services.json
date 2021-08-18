@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937354450049",
+    "project_id": "todolist-61d3f",
+    "storage_bucket": "todolist-61d3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937354450049:android:6276de088a81dd4774e980",
+        "android_client_info": {
+          "package_name": "com.mmdance.todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937354450049-7o8dd9hq4hcqpt79itud0iueftc52j9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDVFbWcNAA5zgJSn_DU_KtyKdKdiuknxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937354450049-7o8dd9hq4hcqpt79itud0iueftc52j9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
